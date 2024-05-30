@@ -30,4 +30,7 @@ npx tsc
 node src/bot.js
 ```
 
+### Tutorials
+For detailed tutorials on setting up a FHIR-based server, visit [Bonfhir's website](https://bonfhir.dev/docs/welcome).
+
 Note: Ran on node v21.7.1
