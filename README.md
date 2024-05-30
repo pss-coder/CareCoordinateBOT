@@ -1,5 +1,7 @@
 # Telegram Bot Coordinator for FHIR Medical App Setup
 
+<img src="https://github.com/pss-coder/CareCoordinateBOT/assets/22881285/fcab2c81-134d-41f2-bf97-7d8c27220d31" height="400">
+
 ## Introduction
 
 This repository provides requires a FHIR-based server using [Bonfhir](https://bonfhir.dev/). Additionally, it demonstrates how to integrate [Socket.IO](https://socket.io/) and [Telegraf](https://github.com/telegraf/telegraf) to work together with the [Shared Coordinator](repo here) web app.
